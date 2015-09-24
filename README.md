@@ -1,3 +1,9 @@
 # curly-cute-parakeet
 
-Note: you should NOT be seeing this message. 
+<<<<<<< HEAD
+Note: 34353qete
+=======
+Note: 34353qete
+
+adkfjadjfadjf;ad f@#%#$^$^$&$%!% 034u94u6 
+>>>>>>> branch-1
